@@ -39,5 +39,5 @@ mobile
 
 ## Author
 
-- Linkedin - [Verbetskiy Arthur](https://www.linkedin.com/in/arthur-verbetskyi)
+- Linkedin - [Verbetskyi Arthur](https://www.linkedin.com/in/arthur-verbetskyi)
 - Frontend Mentor - [@Heitorop](https://www.frontendmentor.io/profile/Heitorop)
