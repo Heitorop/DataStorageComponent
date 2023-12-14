@@ -18,13 +18,12 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
-![](./1440plus.png)
 1440+
-![](./below1440.png)
+![](./1440plus.png)
 <=1440
-![](./mobile.png)
+![](./below1440.png)
 mobile
+![](./mobile.png)
 
 ### Links
 
