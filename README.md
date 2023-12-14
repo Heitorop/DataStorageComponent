@@ -6,8 +6,8 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
@@ -31,8 +31,13 @@ mobile
 - Live Site URL: (https://your-live-site-url.com)
 
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Author
+
+- Linkedin - [Verbetskiy Arthur](https://www.linkedin.com/in/arthur-verbetskyi)
+- Frontend Mentor - [@Heitorop](https://www.frontendmentor.io/profile/Heitorop)
