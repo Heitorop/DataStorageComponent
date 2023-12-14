@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="../images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Data storage component</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/styles.css" />
+  </head>
+  <body>
+    <main>
+      <article class="data">
+        <div class="data__uploader">
+          <img src="./images/logo.svg" alt="logo" class="logo" />
+          <div class="data__uploader__icons">
+            <div class="icon-wrapper">
+              <img src="./images/icon-document.svg" alt="icon-document" />
+            </div>
+            <div class="icon-wrapper">
+              <img src="./images/icon-folder.svg" alt="icon-folder" />
+            </div>
+            <div class="icon-wrapper">
+              <img src="./images/icon-upload.svg" alt="icon-upload" />
+            </div>
+          </div>
+        </div>
+        <div class="data__info">
+          <p class="data__info__text">
+            You've used <b>815 GB</b> of your storage
+          </p>
+          <div class="progress-bar-container">
+            <div class="progress"></div>
+          </div>
+          <p class="data__info__sub-text">
+            <b class="text">0 GB</b>
+            <b class="text">1000 GB</b>
+          </p>
+          <div class="data__remaining">
+            <p>185 <span class='text'>gb left</span></p> 
+          </div>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>
