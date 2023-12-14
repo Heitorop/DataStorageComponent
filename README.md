@@ -20,8 +20,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./1440plus.png)
-[](./below1440.png)
-[](./mobile.png)
+![](./below1440.png)
+![](./mobile.png)
 
 ### Links
 
