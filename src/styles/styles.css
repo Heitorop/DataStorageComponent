@@ -141,7 +141,7 @@ main {
       content: '';
       position: absolute;
       bottom: -5px;
-      right: -23px;
+      right: -22.5px;
       border-left: 30px solid transparent;
       border-right: 35px solid transparent;
       border-bottom: 30px solid var(--pale-blue);
