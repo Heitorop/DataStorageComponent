@@ -6,8 +6,8 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
@@ -18,10 +18,12 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
+1440+
 ![](./1440plus.png)
-[](./below1440.png)
-[](./mobile.png)
+<=1440
+![](./below1440.png)
+mobile
+![](./mobile.png)
 
 ### Links
 
@@ -29,8 +31,13 @@ Users should be able to:
 - Live Site URL: (https://your-live-site-url.com)
 
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Author
+
+- Linkedin - [Verbetskyi Arthur](https://www.linkedin.com/in/arthur-verbetskyi)
+- Frontend Mentor - [@Heitorop](https://www.frontendmentor.io/profile/Heitorop)
